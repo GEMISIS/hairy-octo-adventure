@@ -6,5 +6,5 @@ creating movement with them for things like virtual reality ;)
 
 Uses GraphView to display the data in graphs.
 
-![ScreenShot](url here)
-![ScreenShot](url here)
+![ScreenShot](https://raw.githubusercontent.com/gemisis/hairy-octo-adventure/master/pics/pic%201.png)
+![ScreenShot](https://raw.githubusercontent.com/gemisis/hairy-octo-adventure/master/pics/pic%202.png)
